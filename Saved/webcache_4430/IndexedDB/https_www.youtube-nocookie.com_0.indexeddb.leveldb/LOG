@@ -1,0 +1,6 @@
+2024/02/17-17:04:48.498 1ad8 Creating DB C:/Users/Windows10/Desktop/学习/CS415/UE Project/MP2/MP2_test/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
+2024/02/17-17:04:48.505 1ad8 Reusing MANIFEST C:/Users/Windows10/Desktop/学习/CS415/UE Project/MP2/MP2_test/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/02/17-17:09:37.784 3710 Level-0 table #5: started
+2024/02/17-17:09:37.790 3710 Level-0 table #5: 1299 bytes OK
+2024/02/17-17:09:37.793 3710 Delete type=0 #3
+2024/02/17-17:09:37.793 3710 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
